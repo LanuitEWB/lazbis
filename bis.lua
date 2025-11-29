@@ -3288,6 +3288,7 @@ return {
 			['OtherworldlySoul'] = 'Otherworldly Soul',
 			['BellikosDoll'] = 'Living Bellikos Doll - Tranquility',
 			['DollmakersKey'] = 'Dollmaker\'s Key',
+			['Crown']='Bloodcursed Crown of Vzith',
 		},
 		['Visible'] = {
 			['Destruction'] = 'Umbra of Destruction',
